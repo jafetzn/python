@@ -1,0 +1,9 @@
+Postgresql es un motor de base de datos muy utilizado en los proyectos web, bastante funcional y fácil de utilizar.
+Primero hay que bajar el .exe de la aplicacion de la siguiente pagina:https://www.postgresql.org/download/ y seleccionar la distribucion deseada
+Instalar la app , seleccionar el puerto default, usualmente 5000, pero tmb puedes modificarlo
+Agregar una vez instalado en el PATH de tus variables el directorio en donde se encuentra el bin: C:\Program Files\PostgreSQL\14\pgAdmin 4\bin
+
+Una vez instalado, setear el password del usuario PostgreSQL, y del admin. Crear una base de datos.
+Por lo general un schema diferente a public para trabajar y empezar a crear tablas, vistas, getCountry
+Estaré haciendo una base de datos para el registro de alumnos, maestros, cursos, etc, de un sistema escolar.
+Tal vez agregue examenes, extras y otras funcionalidades
